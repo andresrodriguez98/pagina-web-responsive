@@ -13,7 +13,7 @@
 }
 
 #menu li a.active{
-    color: var(--color-primary-dark);
+    color: var(--color-primary);
     text-decoration: underline;
 }
 
